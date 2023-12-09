@@ -1,6 +1,5 @@
 package org.aoc;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
